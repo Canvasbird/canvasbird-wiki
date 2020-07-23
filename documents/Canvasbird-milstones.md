@@ -26,6 +26,7 @@ Discription: Main board
 - [x] Save the canvas ImageURL to JSON
 - [x] Make multiple pages feature
 - [x] Download as PDF to share
+- [ ] Diary
 
 - [ ] Add popular colors toolbox
 
