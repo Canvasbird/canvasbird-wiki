@@ -20,11 +20,12 @@ An Interactive webboard (based on Angular) to enhance learning activity and brin
 
 <!-- [Website]() -->
 [Milestones](https://github.com/Canvasbird/canvasbird-documentation/blob/master/documents/Canvasbird-milstones.md)
-[Todos and Issues]('https://github.com/Canvasbird/canvasboard/issues')
+</br>
+[Todos and Issues](https://github.com/Canvasbird/canvasboard/issues)</br>
 [Contributions]()
 
 <!-- covid Dashbeyond -->
-###[Covid Dashbeyond]('https://github.com/Canvasbird/mlc19-backend')
+### [Covid Dashbeyond](https://github.com/Canvasbird/mlc19-backend)
 This project main aim is to bring awareness about coronavirus and perform analysis regarding the COVID-19 epidemic.This dashboard updates with new data automatically with REST without requiring any expertise along with future predictions based on the previous trend and seasonality. The lead maintainer is @bharathjoshi
 
 <strong>Technology Stack:</strong> <span>Flask, Python, HTML, JavaScript, CSS</span>
