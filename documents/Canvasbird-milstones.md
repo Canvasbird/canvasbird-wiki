@@ -38,7 +38,6 @@ Description: File management functionality for viewing and editing the files
 - [ ] Download file as PDF
 - [ ] Edit the file ( User based role )
 
-</br>
 ### Backend (NodeJS, Javascript, NPM packages)
 - [ ] Store the JSON in database and make queries based routes
 - [ ] Convert PPT file uploaded to JSON which has DataURL of each page
