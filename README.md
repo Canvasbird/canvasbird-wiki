@@ -18,8 +18,8 @@ An Interactive webboard (based on Angular) to enhance learning activity and brin
 <strong>Technology Stack:</strong> Angular, Nodejs, Typescript, Bootstrap
 <p><strong style="color:red">Important Links:</strong></p>
 
-[Website]()
-[Milestones]()
+<!-- [Website]() -->
+[Milestones](https://github.com/Canvasbird/canvasbird-documentation/blob/master/documents/Canvasbird-milstones.md)
 [Todos and Issues]('https://github.com/Canvasbird/canvasboard/issues')
 [Contributions]()
 
@@ -31,7 +31,7 @@ This project main aim is to bring awareness about coronavirus and perform analys
 <p><strong style="color:red">Important Links:</strong></p>
 
 
-[Website]()
+<!-- [Website]() -->
 [Milestones]()
 [Todos and Issues]()
 [Contributions]()
