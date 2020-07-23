@@ -12,7 +12,7 @@ Canvasbird is an opensource organization were we build real-time applications to
 ## Projects
 <!-- canvasboard -->
 
-### [Canvasboard]('https://github.com/Canvasbird/canvasboard')
+### [Canvasboard](https://github.com/Canvasbird/canvasboard)
 An Interactive webboard (based on Angular) to enhance learning activity and bring home a great teaching experience for the teachers and a fun learning experience for students. Our main goal is to create a standalone web application that simplifies the prepping,in-class teaching and learning experience for its users (Teachers, Students). The lead maintainer is @goliakshay. 
 
 <strong>Technology Stack:</strong> Angular, Nodejs, Typescript, Bootstrap
