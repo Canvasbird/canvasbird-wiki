@@ -7,6 +7,7 @@ Discription: Home page for intro and features discription
 - [x] Prototyping
 - [ ] Login system along
 - [ ] Auth Guards
+- [ ] Make static pages for Home
 
 <strong>Webboard</strong>
 Discription: Main board 
