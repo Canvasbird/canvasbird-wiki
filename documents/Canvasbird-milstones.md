@@ -4,17 +4,17 @@
 ### Frontend (Angular, HTML, SCSS, Typescript, NPM)
 <strong>Home page</strong>
 Discription: Home page for intro and features discription
-- [ ] Prototyping
+- [x] Prototyping
 - [ ] Login system along
 - [ ] Auth Guards
 
 <strong>Webboard</strong>
 Discription: Main board 
-- [ ] Prototyping
+- [x] Prototyping
 - [x] Add Basic pen
-- [ ] Add Brush pen
-- [ ] Add Highlighter
-- [ ] Add Eraser
+- [x] Add Brush pen
+- [x] Add Highlighter
+- [x] Add Eraser
 - [ ] Add Width/thickness changer of the pen chosen
 - [ ] Add Image to canvas via input which can be draggable on the board
 - [ ] Add text input which can be draggable on the board
