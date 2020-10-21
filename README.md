@@ -1,4 +1,4 @@
-# canvasbird-documentation
+# canvasbird-wiki
 ## What is Canvasbird?
 Canvasbird is an opensource organization were we build real-time applications to enhance the end-user experience.
 
