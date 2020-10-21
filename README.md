@@ -8,7 +8,8 @@ Canvasbird is an opensource organization were we build real-time applications to
 <!-- If you are looking for contribution click [here]() for Instructions. -->
 <!-- For Wiki click [here]() -->
 <!-- Project Checklists [Click here]() -->
-
+## Contributions
+Getting Started and Contribution Guidelines for all Contributors to the Canvasbird open source. View / update the wiki [here](https://github.com/Canvasbird/canvasbird-wiki/wiki)
 ## Projects
 <!-- canvasboard -->
 
