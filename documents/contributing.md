@@ -1,2 +1,0 @@
-# canvasbird-documentation
-## Contributions
