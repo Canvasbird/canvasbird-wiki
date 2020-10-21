@@ -13,29 +13,16 @@ Canvasbird is an opensource organization were we build real-time applications to
 <!-- canvasboard -->
 
 ### [Canvasboard](https://github.com/Canvasbird/canvasboard)
-An Interactive webboard (based on Angular) to enhance learning activity and bring home a great teaching experience for the teachers and a fun learning experience for students. Our main goal is to create a standalone web application that simplifies the prepping,in-class teaching and learning experience for its users (Teachers, Students). The lead maintainer is @goliakshay. 
+
+**Canvasboard** is an interactive board with plugins focusing on replacing the need of multiple platforms for teaching, presenting or explaining your ideas. The interactive plugins are built using web technologies to ease your work right within a single platform.
 
 <strong>Technology Stack:</strong> Angular, Nodejs, Typescript, Bootstrap
 <p><strong style="color:red">Important Links:</strong></p>
 
 <!-- [Website]() -->
-[Milestones](https://github.com/Canvasbird/canvasbird-documentation/blob/master/documents/Canvasbird-milstones.md)
+[Project Board](https://github.com/Canvasbird/canvasboard/projects/1)
 </br>
 [Todos and Issues](https://github.com/Canvasbird/canvasboard/issues)</br>
-[Contributions]()
-
-<!-- covid Dashbeyond -->
-### [Covid Dashbeyond](https://github.com/Canvasbird/mlc19-backend)
-This project main aim is to bring awareness about coronavirus and perform analysis regarding the COVID-19 epidemic.This dashboard updates with new data automatically with REST without requiring any expertise along with future predictions based on the previous trend and seasonality. The lead maintainer is @bharathjoshi
-
-<strong>Technology Stack:</strong> <span>Flask, Python, HTML, JavaScript, CSS</span>
-<p><strong style="color:red">Important Links:</strong></p>
-
-
-<!-- [Website]() -->
-[Milestones]()
-[Todos and Issues]()
-[Contributions]()
 
 
 <!-- ### CamLecture  -->
