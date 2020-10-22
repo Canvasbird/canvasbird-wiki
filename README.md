@@ -14,6 +14,9 @@ Getting Started and Contribution Guidelines for all Contributors to the Canvasbi
 <!-- canvasboard -->
 
 ### [Canvasboard](https://github.com/Canvasbird/canvasboard)
+<p align="center">
+  <img src="https://github.com/Canvasbird/canvasboard/raw/master/src/assets/Canvasboard.png?raw=true" width="700">
+</p>
 
 **Canvasboard** is an interactive board with plugins focusing on replacing the need of multiple platforms for teaching, presenting or explaining your ideas. The interactive plugins are built using web technologies to ease your work right within a single platform.
 
