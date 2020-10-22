@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Canvasbird/canvasbird-wiki/blob/master/images/canvasbird-wiki.png?raw=true">
+</p>
 
-# canvasbird-wiki
 ## What is Canvasbird?
 Canvasbird is an opensource organization were we build real-time applications to enhance the end-user experience.
 
