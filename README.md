@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Canvasbird/canvasbird-wiki/blob/master/images/canvasbird-wiki.png?raw=true">
+  <img src="https://github.com/Canvasbird/canvasbird-wiki/blob/master/images/1.png?raw=true">
 </p>
 
 ## What is Canvasbird?
